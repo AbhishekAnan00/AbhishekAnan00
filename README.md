@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![WhatsApp Image 2024-04-08 at 22 38 11_e310bc5f](https://github.com/AbhishekAnan00/AbhishekAnand/assets/156063395/8b075687-713b-43ab-b5df-ab817d9ab01a)
+![WhatsApp Image 2024-04-08 at 22 38 11_e310bc5f](https://github.com/AbhishekAnan00/AbhishekAnan00/assets/156063395/b72795f1-4df3-4d1a-960f-7500359af462)
+
 
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
 <h3 align="center">A passionate software engineer from India</h3>
@@ -19,7 +20,7 @@
 
 - 💬 Ask me about **MERN & NextJs**
 
-- 📫 How to reach me **email.abhihsek00@gmail.com**
+- 📫 How to reach me **email.abhishek00@gmail.com**
 
 - 📄 Know about my experiences [https://pfollio.netlify.app](https://pfollio.netlify.app)
 
