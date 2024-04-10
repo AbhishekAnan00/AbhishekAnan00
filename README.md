@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![WhatsApp Image 2024-04-08 at 22 38 11_e310bc5f](https://github.com/AbhishekAnan00/AbhishekAnan00/assets/156063395/b72795f1-4df3-4d1a-960f-7500359af462)
+![20240324_104658](https://github.com/AbhishekAnan00/AbhishekAnan00/assets/156063395/f8909d86-26e4-4087-97fb-4ef8c443a8f4)
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
