@@ -14,15 +14,15 @@
 
 - 🔭 I’m currently working on [NextJs](sharesoon!!!)
 
-- 🌱 I’m currently learning **Next JS & TypeScript**
+- 🌱 I’m currently learning **DEVOPS & AI GENERATIVE ENGINEERING**
 
-- 👨‍💻 All of my projects are available at [https://pfollio.netlify.app](https://pfollio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://chat-portfolio-omega.vercel.app/](https://chat-portfolio-omega.vercel.app/)
 
 - 💬 Ask me about **MERN & NextJs**
 
 - 📫 How to reach me **email.abhishek00@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1AUivMN9anxKMWLflW7vfhvQiRlIoKisM/view?usp=drivesdk
+- 📄 Know about my experiences https://chat-portfolio-omega.vercel.app/
 
 - ⚡ Fun fact **Mechanical Banda!!!**
 
